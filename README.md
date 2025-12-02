@@ -86,7 +86,7 @@ Aplicaciones simples o prototipos
   <a href="https://www.tiktok.com/@luisfernandocamachorocha">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
   </a>
-   <a href="https://www.facebook.com/?locale=es_LA">
+   <a href="https://www.facebook.com/leandra.rochaveisaga/?locale=es_LA">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </a>
 
