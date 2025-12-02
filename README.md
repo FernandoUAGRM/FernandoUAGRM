@@ -89,6 +89,11 @@ Aplicaciones simples o prototipos
    <a href="https://www.facebook.com/leandra.rochaveisaga/?locale=es_LA">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </a>
-
+  <a href="https://discord.com/channels/@me">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+ <a href="https://www.youtube.com/@LUISFERNANDO-i2u6r">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+  </a>
 
 </span>
