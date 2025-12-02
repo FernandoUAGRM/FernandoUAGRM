@@ -95,5 +95,15 @@ Aplicaciones simples o prototipos
  <a href="https://www.youtube.com/@LUISFERNANDO-i2u6r">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
+<h2>Estadísticas de Github:</h2>
 
-</span>
+[![](https://github-readme-stats.vercel.app/api?FernandoUAGRMshow_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/FernandoUAGRM)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=FernandoUAGRM&theme=material-palenight)](https://github.com/FernandoUAGRM)
+
+
+----
+
+<pag>
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="ejemplo" />
+</pag>
