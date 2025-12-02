@@ -83,6 +83,9 @@ Aplicaciones simples o prototipos
   <a href="https://www.instagram.com/fern.andoflot/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
+  <a href="https://www.tiktok.com/@luisfernandocamachorocha">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
+  </a>
 
 
 </span>
